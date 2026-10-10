@@ -1,0 +1,1 @@
+[OpenAPI definition](http://localhost:8123/api/doc.html#/default/health-controller/healthCheck)
